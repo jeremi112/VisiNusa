@@ -1,0 +1,31 @@
+# Nusantara Baru: Menyongsong Masa Depan Indonesia
+
+Selamat datang di **Nusantara Baru**! 
+
+Website ini didedikasikan untuk menginspirasi dan memotivasi bangsa Indonesia dalam menyongsong masa depan yang lebih cerah dan berkelanjutan. **Nusantara Baru** bertujuan untuk menekankan pentingnya ketahanan nasional dalam berbagai aspek kehidupan serta pentingnya inklusivitas untuk menjadi bangsa yang besar dan maju.
+
+## Misi Kami
+
+**Nusantara Baru** percaya bahwa untuk mencapai kejayaan, Indonesia harus memperkuat berbagai ketahanan nasional, termasuk ketahanan ekonomi, sosial, pangan, energi, lingkungan, kesehatan, budaya, dan lainnya. Selain itu, website ini mendorong pentingnya inklusivitas—merangkul semua lapisan masyarakat tanpa memandang perbedaan untuk membangun persatuan dan kesatuan yang kokoh.
+
+## Fitur Utama
+
+- **Artikel Inspiratif:** Kami menyediakan artikel-artikel yang mengulas tentang berbagai bentuk ketahanan nasional yang diperlukan untuk membangun Indonesia yang lebih kuat dan mandiri.
+  
+- **Cerita Sukses:** Kisah-kisah sukses dari berbagai daerah dan sektor di Indonesia yang menunjukkan bagaimana ketahanan dan inklusivitas berperan dalam pembangunan bangsa.
+  
+- **Forum Diskusi:** Platform interaktif bagi pengunjung untuk berdiskusi, bertukar pikiran, dan memberikan ide tentang bagaimana kita dapat bersama-sama membangun Indonesia yang lebih baik.
+
+## Visi
+
+Membangun Indonesia yang kuat, inklusif, dan berkelanjutan di mana setiap warga negara memiliki peran dalam mencapai masa depan yang lebih baik.
+
+## Kontak
+
+Untuk pertanyaan lebih lanjut atau jika Anda ingin berkontribusi pada **Nusantara Baru**, silakan hubungi kami di visiNusa.com.
+
+---
+
+Terima kasih telah mengunjungi **Nusantara Baru**! Bersama-sama, mari kita wujudkan masa depan Indonesia yang lebih cerah.
+
+Pembuatan website menggunakan html, javascript dan css, dengan beberapa library Javascript untuk menghemat waktu dan keefisienan kode menjadi lebih baik.
