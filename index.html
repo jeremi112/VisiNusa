@@ -589,14 +589,29 @@
         >
           Kamu dapat bergagas tentang masa depan bangsa ini dan mengenai penanganan strategis masalah yang ada
         </h1>
-        <div style="display: flex;justify-content: center;width: 100%;">
+        <!-- <div style="display: flex;justify-content: center;width: 100%;">
           <form action="/submit" method="post">
             <input style="width: 50vh; height: 20vh;" id="inputText" name="inputText" placeholder="Ketik di sini..." required><br><br>
             <div style="display: flex;justify-content: center;">
               <button type="submit" class="btn-danger">Kirim gagasan</button>
             </div>
         </form>
+        </div> -->
+        <div style="display: flex; justify-content: center; width: 100%;">
+          <form action="/submit" method="post" style="width: 100%;">
+            <textarea 
+              style="width: 100%; height: 20vh;" 
+              id="inputText" 
+              name="inputText" 
+              placeholder="Ketik di sini..." 
+              required>
+            </textarea><br><br>
+            <div style="display: flex; justify-content: center;">
+              <button type="submit" class="btn-danger">Kirim gagasan</button>
+            </div>
+          </form>
         </div>
+        
         
       </div>
     </div>
